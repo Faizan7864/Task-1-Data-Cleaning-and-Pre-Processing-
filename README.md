@@ -84,7 +84,7 @@ While Excel is useful for quick visual checks, Python with Pandas is far more ef
 ---
 
 ## Maintained by
-**Damanti Murmu**  
+**Mirza Faizan Beg**  
 Aspiring Business and Data Analyst |
 [LinkedIn](www.linkedin.com/in/mirza-faizan-beg-44a61a250)
 
